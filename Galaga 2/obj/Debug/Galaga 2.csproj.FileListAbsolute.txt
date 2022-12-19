@@ -1,0 +1,17 @@
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Galaga 2.exe.config
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Galaga 2.exe
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Galaga 2.pdb
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga 2.csprojAssemblyReference.cache
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga_2.Form1.resources
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga_2.Properties.Resources.resources
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga 2.csproj.GenerateResource.cache
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga 2.csproj.CoreCompileInputs.cache
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga 2.exe
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga 2.pdb
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Robert P\OneDrive\Desktop\Galaga 2\obj\Debug\Galaga 2.csproj.CopyComplete
